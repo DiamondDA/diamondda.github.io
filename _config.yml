@@ -1,1 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+title: DiamondDA's Notebook
+description: 我的个人网站（笔记本）
 theme: jekyll-theme-cayman
