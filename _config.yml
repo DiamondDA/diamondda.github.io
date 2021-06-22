@@ -3,6 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-title: DiamondDA's Notebook
-description: 我的个人网站（笔记本）
+title: DiamondDA's Webstite
+description: 我的个人网站
 theme: jekyll-theme-cayman
