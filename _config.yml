@@ -4,5 +4,5 @@ relative_links:
   enabled: true
   collections: true
 title: DiamondDA's Webstite
-description: 我的个人网站
+description: 
 theme: jekyll-theme-cayman
