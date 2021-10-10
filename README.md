@@ -1,2 +1,3 @@
 ## 网站搬迁至
-# DiamBlog.github.io
+<a href="https://DiamBlog.github.io">DiamBlog.github.io</a>
+## 内容不变
